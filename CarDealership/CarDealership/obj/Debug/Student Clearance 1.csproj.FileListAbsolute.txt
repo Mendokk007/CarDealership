@@ -1,0 +1,26 @@
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.exe.config
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.exe
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.pdb
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.AssemblyReference.cache
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.SuggestedBindingRedirects.cache
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student_Clearance_1.Properties.Resources.resources
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.GenerateResource.cache
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.CoreCompileInputs.cache
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.exe
+D:\Mendoza, Kobe\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.pdb
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.exe.config
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.exe
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\Student Clearance 1.pdb
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.AssemblyReference.cache
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.exe.config
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student_Clearance_1.Properties.Resources.resources
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.GenerateResource.cache
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.csproj.CoreCompileInputs.cache
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.exe
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\Student Clearance 1.pdb
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\CarImages\bmw-x5-removebg-preview.png
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\CarImages\ford-mustang-removebg-preview.png
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\CarImages\honda-civic-removebg-preview.png
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\CarImages\tesla-model-3-removebg-preview.png
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\bin\Debug\CarImages\toyota-camry-removebg-preview.png
+C:\Users\Mendoza\source\repos\CarDealership1\Student-Clearance-Form-main\Student Clearance 1\Student Clearance 1\obj\Debug\CarDealership.HomeForm.resources
